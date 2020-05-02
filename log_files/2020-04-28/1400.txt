@@ -1,0 +1,4614 @@
+Log for user 'lwei5' in game 'AdXFinal' at [2020-04-28 1400]
+____________________________________________________________________________
+
+
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.esotericsoftware.kryo.util.UnsafeUtil (file:/gpfs/main/course/cs1951k/ta/tmp/AdXFinal-egatmwpr/lwei5/target/Agent.jar) to constructor java.nio.DirectByteBuffer(long,int,java.lang.Object)
+WARNING: Please consider reporting this to the maintainers of com.esotericsoftware.kryo.util.UnsafeUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+00:00  INFO: Connecting: localhost/127.0.0.1:8001/8001
+00:00  INFO: [kryonet] Connection 1 connected: localhost/127.0.0.1
+[-] Received ConnectServerMessage, server response is: OK
+[-] Agent: lwei5-ngao is in the game!
+
+
+[-] Starting a new Game, game #1
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = MALE_OLD_LOW_INCOME, Reach = 1615, Budget = 1615.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(1812, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 1770.5956184071981
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(1713, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1506459948993264
+	 Cumulative Profit: 2101.5865635248247
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1506459948993264
+	 Cumulative Profit: 2101.5865635248247
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1506459948993264
+	 Cumulative Profit: 2101.5865635248247
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1506459948993264
+	 Cumulative Profit: 2101.5865635248247
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1506459948993264
+	 Cumulative Profit: 2101.5865635248247
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1506459948993264
+	 Cumulative Profit: 2101.5865635248247
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1506459948993264
+	 Cumulative Profit: 2101.5865635248247
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1506459948993264
+	 Cumulative Profit: 2101.5865635248247
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #2
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = FEMALE_YOUNG, Reach = 2236, Budget = 2236.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(838, 838.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: -555.3357783148708
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5632075629886246
+	 Cumulative Profit: -555.3357783148708
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5632075629886246
+	 Cumulative Profit: -555.3357783148708
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5632075629886246
+	 Cumulative Profit: -555.3357783148708
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5632075629886246
+	 Cumulative Profit: -555.3357783148708
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5632075629886246
+	 Cumulative Profit: -555.3357783148708
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5632075629886246
+	 Cumulative Profit: -555.3357783148708
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5632075629886246
+	 Cumulative Profit: -555.3357783148708
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5632075629886246
+	 Cumulative Profit: -555.3357783148708
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5632075629886246
+	 Cumulative Profit: -555.3357783148708
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #3
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = FEMALE_OLD_HIGH_INCOME, Reach = 569, Budget = 569.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(419, 335.2000000000026)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: -6.407183192965931
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7889216316406298
+	 Cumulative Profit: -6.407183192965931
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7889216316406298
+	 Cumulative Profit: -6.407183192965931
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7889216316406298
+	 Cumulative Profit: -6.407183192965931
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7889216316406298
+	 Cumulative Profit: -6.407183192965931
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7889216316406298
+	 Cumulative Profit: -6.407183192965931
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7889216316406298
+	 Cumulative Profit: -6.407183192965931
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7889216316406298
+	 Cumulative Profit: -6.407183192965931
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7889216316406298
+	 Cumulative Profit: -6.407183192965931
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7889216316406298
+	 Cumulative Profit: -6.407183192965931
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #4
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = MALE_OLD, Reach = 2603, Budget = 2603.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(1721, 1590.4999051923)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: -455.9682416735493
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7179277110101326
+	 Cumulative Profit: -455.9682416735493
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7179277110101326
+	 Cumulative Profit: -455.9682416735493
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7179277110101326
+	 Cumulative Profit: -455.9682416735493
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7179277110101326
+	 Cumulative Profit: -455.9682416735493
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7179277110101326
+	 Cumulative Profit: -455.9682416735493
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7179277110101326
+	 Cumulative Profit: -455.9682416735493
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7179277110101326
+	 Cumulative Profit: -455.9682416735493
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7179277110101326
+	 Cumulative Profit: -455.9682416735493
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7179277110101326
+	 Cumulative Profit: -455.9682416735493
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #5
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = MALE_HIGH_INCOME, Reach = 662, Budget = 662.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(505, 505.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8153422169732929
+	 Cumulative Profit: -87.48690472736018
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8153422169732929
+	 Cumulative Profit: -87.48690472736018
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8153422169732929
+	 Cumulative Profit: -87.48690472736018
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8153422169732929
+	 Cumulative Profit: -87.48690472736018
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8153422169732929
+	 Cumulative Profit: -87.48690472736018
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8153422169732929
+	 Cumulative Profit: -87.48690472736018
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8153422169732929
+	 Cumulative Profit: -87.48690472736018
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8153422169732929
+	 Cumulative Profit: -87.48690472736018
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8153422169732929
+	 Cumulative Profit: -87.48690472736018
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8153422169732929
+	 Cumulative Profit: -87.48690472736018
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #6
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = MALE_OLD_LOW_INCOME, Reach = 1256, Budget = 1256.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(1477, 1255.4499401596981)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.063248011431235
+	 Cumulative Profit: 159.4290645555643
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.063248011431235
+	 Cumulative Profit: 159.4290645555643
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.063248011431235
+	 Cumulative Profit: 159.4290645555643
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.063248011431235
+	 Cumulative Profit: 159.4290645555643
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.063248011431235
+	 Cumulative Profit: 159.4290645555643
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.063248011431235
+	 Cumulative Profit: 159.4290645555643
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.063248011431235
+	 Cumulative Profit: 159.4290645555643
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.063248011431235
+	 Cumulative Profit: 159.4290645555643
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.063248011431235
+	 Cumulative Profit: 159.4290645555643
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.063248011431235
+	 Cumulative Profit: 159.4290645555643
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #7
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = FEMALE_OLD, Reach = 1404, Budget = 1404.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(1944, 1403.5499756288216)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1014325994736378
+	 Cumulative Profit: 285.27276369315314
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1014325994736378
+	 Cumulative Profit: 285.27276369315314
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1014325994736378
+	 Cumulative Profit: 285.27276369315314
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1014325994736378
+	 Cumulative Profit: 285.27276369315314
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1014325994736378
+	 Cumulative Profit: 285.27276369315314
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1014325994736378
+	 Cumulative Profit: 285.27276369315314
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1014325994736378
+	 Cumulative Profit: 285.27276369315314
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1014325994736378
+	 Cumulative Profit: 285.27276369315314
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1014325994736378
+	 Cumulative Profit: 285.27276369315314
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1014325994736378
+	 Cumulative Profit: 285.27276369315314
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #8
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = MALE_YOUNG_LOW_INCOME, Reach = 1101, Budget = 1101.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(636, 636.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: -296.62306998523695
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(1812, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1517789863827903
+	 Cumulative Profit: 799.2173280149041
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1517789863827903
+	 Cumulative Profit: 799.2173280149041
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1517789863827903
+	 Cumulative Profit: 799.2173280149041
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1517789863827903
+	 Cumulative Profit: 799.2173280149041
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1517789863827903
+	 Cumulative Profit: 799.2173280149041
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1517789863827903
+	 Cumulative Profit: 799.2173280149041
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1517789863827903
+	 Cumulative Profit: 799.2173280149041
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1517789863827903
+	 Cumulative Profit: 799.2173280149041
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1517789863827903
+	 Cumulative Profit: 799.2173280149041
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #9
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = FEMALE_LOW_INCOME, Reach = 1314, Budget = 1314.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(2829, 1313.2499777264175)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1497804124858133
+	 Cumulative Profit: 394.3729462863
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1497804124858133
+	 Cumulative Profit: 394.3729462863
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1497804124858133
+	 Cumulative Profit: 394.3729462863
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1497804124858133
+	 Cumulative Profit: 394.3729462863
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1497804124858133
+	 Cumulative Profit: 394.3729462863
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1497804124858133
+	 Cumulative Profit: 394.3729462863
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1497804124858133
+	 Cumulative Profit: 394.3729462863
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1497804124858133
+	 Cumulative Profit: 394.3729462863
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1497804124858133
+	 Cumulative Profit: 394.3729462863
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1497804124858133
+	 Cumulative Profit: 394.3729462863
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #10
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = FEMALE_YOUNG_LOW_INCOME, Reach = 1980, Budget = 1980.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(1020, 1006.49999825382)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: -539.7145726659926
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6178751074716735
+	 Cumulative Profit: -539.7145726659926
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6178751074716735
+	 Cumulative Profit: -539.7145726659926
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6178751074716735
+	 Cumulative Profit: -539.7145726659926
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6178751074716735
+	 Cumulative Profit: -539.7145726659926
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6178751074716735
+	 Cumulative Profit: -539.7145726659926
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6178751074716735
+	 Cumulative Profit: -539.7145726659926
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6178751074716735
+	 Cumulative Profit: -539.7145726659926
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6178751074716735
+	 Cumulative Profit: -539.7145726659926
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6178751074716735
+	 Cumulative Profit: -539.7145726659926
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #11
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = MALE_OLD_HIGH_INCOME, Reach = 1212, Budget = 1212.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(828, 352.6523884507803)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7376547939195974
+	 Cumulative Profit: 223.42283201032404
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7376547939195974
+	 Cumulative Profit: 223.42283201032404
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7376547939195974
+	 Cumulative Profit: 223.42283201032404
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7376547939195974
+	 Cumulative Profit: 223.42283201032404
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7376547939195974
+	 Cumulative Profit: 223.42283201032404
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7376547939195974
+	 Cumulative Profit: 223.42283201032404
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7376547939195974
+	 Cumulative Profit: 223.42283201032404
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7376547939195974
+	 Cumulative Profit: 223.42283201032404
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #12
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = MALE_OLD_LOW_INCOME, Reach = 897, Budget = 897.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(1281, 896.7000000000191)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.106819935478799
+	 Cumulative Profit: 191.93496424894624
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.106819935478799
+	 Cumulative Profit: 191.93496424894624
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.106819935478799
+	 Cumulative Profit: 191.93496424894624
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.106819935478799
+	 Cumulative Profit: 191.93496424894624
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.106819935478799
+	 Cumulative Profit: 191.93496424894624
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.106819935478799
+	 Cumulative Profit: 191.93496424894624
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.106819935478799
+	 Cumulative Profit: 191.93496424894624
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.106819935478799
+	 Cumulative Profit: 191.93496424894624
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.106819935478799
+	 Cumulative Profit: 191.93496424894624
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.106819935478799
+	 Cumulative Profit: 191.93496424894624
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #13
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = MALE_YOUNG_LOW_INCOME, Reach = 1836, Budget = 1836.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(1774, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 1769.456023893431
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(1827, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1432057967917193
+	 Cumulative Profit: 2361.8516858191933
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1432057967917193
+	 Cumulative Profit: 2361.8516858191933
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1432057967917193
+	 Cumulative Profit: 2361.8516858191933
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1432057967917193
+	 Cumulative Profit: 2361.8516858191933
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1432057967917193
+	 Cumulative Profit: 2361.8516858191933
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1432057967917193
+	 Cumulative Profit: 2361.8516858191933
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1432057967917193
+	 Cumulative Profit: 2361.8516858191933
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1432057967917193
+	 Cumulative Profit: 2361.8516858191933
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1432057967917193
+	 Cumulative Profit: 2361.8516858191933
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #14
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = OLD_LOW_INCOME, Reach = 3776, Budget = 3776.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(1762, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 720.7756757845166
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(1800, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 3535.2016266619858
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(4257, 246.1999999999903)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.147185077492321
+	 Cumulative Profit: 4641.3417052220175
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.147185077492321
+	 Cumulative Profit: 4641.3417052220175
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.147185077492321
+	 Cumulative Profit: 4641.3417052220175
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.147185077492321
+	 Cumulative Profit: 4641.3417052220175
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.147185077492321
+	 Cumulative Profit: 4641.3417052220175
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.147185077492321
+	 Cumulative Profit: 4641.3417052220175
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.147185077492321
+	 Cumulative Profit: 4641.3417052220175
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.147185077492321
+	 Cumulative Profit: 4641.3417052220175
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #15
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = MALE_YOUNG, Reach = 4941, Budget = 4941.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(494, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 106.60958142164112
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(504, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 249.38139831559948
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(2325, 40.399999999999494)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7279898303046184
+	 Cumulative Profit: 2212.59550307024
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7279898303046184
+	 Cumulative Profit: 2212.59550307024
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7279898303046184
+	 Cumulative Profit: 2212.59550307024
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7279898303046184
+	 Cumulative Profit: 2212.59550307024
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7279898303046184
+	 Cumulative Profit: 2212.59550307024
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7279898303046184
+	 Cumulative Profit: 2212.59550307024
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7279898303046184
+	 Cumulative Profit: 2212.59550307024
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7279898303046184
+	 Cumulative Profit: 2212.59550307024
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #16
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = MALE_HIGH_INCOME, Reach = 662, Budget = 662.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(720, 661.1999797692774)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0368552729648162
+	 Cumulative Profit: 49.596401636139035
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0368552729648162
+	 Cumulative Profit: 49.596401636139035
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0368552729648162
+	 Cumulative Profit: 49.596401636139035
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0368552729648162
+	 Cumulative Profit: 49.596401636139035
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0368552729648162
+	 Cumulative Profit: 49.596401636139035
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0368552729648162
+	 Cumulative Profit: 49.596401636139035
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0368552729648162
+	 Cumulative Profit: 49.596401636139035
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0368552729648162
+	 Cumulative Profit: 49.596401636139035
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0368552729648162
+	 Cumulative Profit: 49.596401636139035
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0368552729648162
+	 Cumulative Profit: 49.596401636139035
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #17
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = OLD_LOW_INCOME, Reach = 2517, Budget = 2517.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(2577, 1366.979999999991)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 1207.0948766810434
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0113378777673887
+	 Cumulative Profit: 1207.0948766810434
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0113378777673887
+	 Cumulative Profit: 1207.0948766810434
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0113378777673887
+	 Cumulative Profit: 1207.0948766810434
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0113378777673887
+	 Cumulative Profit: 1207.0948766810434
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0113378777673887
+	 Cumulative Profit: 1207.0948766810434
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0113378777673887
+	 Cumulative Profit: 1207.0948766810434
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0113378777673887
+	 Cumulative Profit: 1207.0948766810434
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0113378777673887
+	 Cumulative Profit: 1207.0948766810434
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0113378777673887
+	 Cumulative Profit: 1207.0948766810434
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #18
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = YOUNG_HIGH_INCOME, Reach = 386, Budget = 386.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(343, 343.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9298547591217474
+	 Cumulative Profit: -11.15212595801097
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9298547591217474
+	 Cumulative Profit: -11.15212595801097
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9298547591217474
+	 Cumulative Profit: -11.15212595801097
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9298547591217474
+	 Cumulative Profit: -11.15212595801097
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9298547591217474
+	 Cumulative Profit: -11.15212595801097
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9298547591217474
+	 Cumulative Profit: -11.15212595801097
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9298547591217474
+	 Cumulative Profit: -11.15212595801097
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9298547591217474
+	 Cumulative Profit: -11.15212595801097
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9298547591217474
+	 Cumulative Profit: -11.15212595801097
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9298547591217474
+	 Cumulative Profit: -11.15212595801097
+
+
+[-] Starting a new Game, game #19
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = FEMALE_YOUNG, Reach = 2236, Budget = 2236.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[x] ACK Message, error, Bid bundle for day 11 not accepted. Server replied: Received Bid bundle for day 11 for agent lwei5-ngao, but currently accepting for day 1. Bid Bundle not accepted.
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(2261, 746.1300000000209)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 1514.220743735908
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(2237, 198.499999999993)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1451185837728135
+	 Cumulative Profit: 1940.3403066320082
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1451185837728135
+	 Cumulative Profit: 1940.3403066320082
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1451185837728135
+	 Cumulative Profit: 1940.3403066320082
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1451185837728135
+	 Cumulative Profit: 1940.3403066320082
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1451185837728135
+	 Cumulative Profit: 1940.3403066320082
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1451185837728135
+	 Cumulative Profit: 1940.3403066320082
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1451185837728135
+	 Cumulative Profit: 1940.3403066320082
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1451185837728135
+	 Cumulative Profit: 1940.3403066320082
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1451185837728135
+	 Cumulative Profit: 1940.3403066320082
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #20
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = MALE_LOW_INCOME, Reach = 3631, Budget = 3631.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(2673, 2404.4999810120585)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: -307.93034912076564
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7887041630255154
+	 Cumulative Profit: -307.93034912076564
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7887041630255154
+	 Cumulative Profit: -307.93034912076564
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7887041630255154
+	 Cumulative Profit: -307.93034912076564
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7887041630255154
+	 Cumulative Profit: -307.93034912076564
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7887041630255154
+	 Cumulative Profit: -307.93034912076564
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7887041630255154
+	 Cumulative Profit: -307.93034912076564
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7887041630255154
+	 Cumulative Profit: -307.93034912076564
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7887041630255154
+	 Cumulative Profit: -307.93034912076564
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7887041630255154
+	 Cumulative Profit: -307.93034912076564
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #21
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = FEMALE_YOUNG, Reach = 670, Budget = 670.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(837, 669.5999999999962)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.079623409141805
+	 Cumulative Profit: 107.09536825002283
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.079623409141805
+	 Cumulative Profit: 107.09536825002283
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.079623409141805
+	 Cumulative Profit: 107.09536825002283
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.079623409141805
+	 Cumulative Profit: 107.09536825002283
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.079623409141805
+	 Cumulative Profit: 107.09536825002283
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.079623409141805
+	 Cumulative Profit: 107.09536825002283
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.079623409141805
+	 Cumulative Profit: 107.09536825002283
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.079623409141805
+	 Cumulative Profit: 107.09536825002283
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.079623409141805
+	 Cumulative Profit: 107.09536825002283
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.079623409141805
+	 Cumulative Profit: 107.09536825002283
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #22
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = MALE_OLD, Reach = 5466, Budget = 5466.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(1721, 925.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: -406.2904751379416
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(2603, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8433242639341041
+	 Cumulative Profit: 2828.2208533276253
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8433242639341041
+	 Cumulative Profit: 2828.2208533276253
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8433242639341041
+	 Cumulative Profit: 2828.2208533276253
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8433242639341041
+	 Cumulative Profit: 2828.2208533276253
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8433242639341041
+	 Cumulative Profit: 2828.2208533276253
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8433242639341041
+	 Cumulative Profit: 2828.2208533276253
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8433242639341041
+	 Cumulative Profit: 2828.2208533276253
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8433242639341041
+	 Cumulative Profit: 2828.2208533276253
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #23
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = MALE_YOUNG_LOW_INCOME, Reach = 918, Budget = 918.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(632, 632.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7425458302398372
+	 Cumulative Profit: -186.6858556796589
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7425458302398372
+	 Cumulative Profit: -186.6858556796589
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7425458302398372
+	 Cumulative Profit: -186.6858556796589
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7425458302398372
+	 Cumulative Profit: -186.6858556796589
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7425458302398372
+	 Cumulative Profit: -186.6858556796589
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7425458302398372
+	 Cumulative Profit: -186.6858556796589
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7425458302398372
+	 Cumulative Profit: -186.6858556796589
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7425458302398372
+	 Cumulative Profit: -186.6858556796589
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7425458302398372
+	 Cumulative Profit: -186.6858556796589
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7425458302398372
+	 Cumulative Profit: -186.6858556796589
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #24
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = MALE_HIGH_INCOME, Reach = 795, Budget = 795.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(305, 305.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: -200.30229109331117
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5658476156645842
+	 Cumulative Profit: -200.30229109331117
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5658476156645842
+	 Cumulative Profit: -200.30229109331117
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5658476156645842
+	 Cumulative Profit: -200.30229109331117
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5658476156645842
+	 Cumulative Profit: -200.30229109331117
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5658476156645842
+	 Cumulative Profit: -200.30229109331117
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5658476156645842
+	 Cumulative Profit: -200.30229109331117
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5658476156645842
+	 Cumulative Profit: -200.30229109331117
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5658476156645842
+	 Cumulative Profit: -200.30229109331117
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5658476156645842
+	 Cumulative Profit: -200.30229109331117
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #25
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = MALE_YOUNG_LOW_INCOME, Reach = 1285, Budget = 1285.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(586, 586.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5911007045885702
+	 Cumulative Profit: -351.8711892073744
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5911007045885702
+	 Cumulative Profit: -351.8711892073744
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5911007045885702
+	 Cumulative Profit: -351.8711892073744
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5911007045885702
+	 Cumulative Profit: -351.8711892073744
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5911007045885702
+	 Cumulative Profit: -351.8711892073744
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5911007045885702
+	 Cumulative Profit: -351.8711892073744
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5911007045885702
+	 Cumulative Profit: -351.8711892073744
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5911007045885702
+	 Cumulative Profit: -351.8711892073744
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5911007045885702
+	 Cumulative Profit: -351.8711892073744
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5911007045885702
+	 Cumulative Profit: -351.8711892073744
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #26
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = OLD_HIGH_INCOME, Reach = 729, Budget = 729.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(1003, 577.949962720912)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 297.2408208839788
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(815, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1579777725410756
+	 Cumulative Profit: 381.3816296439762
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1579777725410756
+	 Cumulative Profit: 381.3816296439762
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1579777725410756
+	 Cumulative Profit: 381.3816296439762
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1579777725410756
+	 Cumulative Profit: 381.3816296439762
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1579777725410756
+	 Cumulative Profit: 381.3816296439762
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1579777725410756
+	 Cumulative Profit: 381.3816296439762
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1579777725410756
+	 Cumulative Profit: 381.3816296439762
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1579777725410756
+	 Cumulative Profit: 381.3816296439762
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1579777725410756
+	 Cumulative Profit: 381.3816296439762
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #27
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = MALE_YOUNG_HIGH_INCOME, Reach = 155, Budget = 155.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(155, 155.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.006025660814714229
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.006025660814714229
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.006025660814714229
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.006025660814714229
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.006025660814714229
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.006025660814714229
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.006025660814714229
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.006025660814714229
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.006025660814714229
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.006025660814714229
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #28
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = MALE_LOW_INCOME, Reach = 2541, Budget = 2541.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(3554, 178.99999999999412)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1032427056958207
+	 Cumulative Profit: 2886.679430346167
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1032427056958207
+	 Cumulative Profit: 2886.679430346167
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1032427056958207
+	 Cumulative Profit: 2886.679430346167
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1032427056958207
+	 Cumulative Profit: 2886.679430346167
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1032427056958207
+	 Cumulative Profit: 2886.679430346167
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1032427056958207
+	 Cumulative Profit: 2886.679430346167
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1032427056958207
+	 Cumulative Profit: 2886.679430346167
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1032427056958207
+	 Cumulative Profit: 2886.679430346167
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1032427056958207
+	 Cumulative Profit: 2886.679430346167
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1032427056958207
+	 Cumulative Profit: 2886.679430346167
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #29
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = MALE_LOW_INCOME, Reach = 2178, Budget = 2178.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(2709, 1476.869999999979)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 1043.2470940380172
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0785392777865006
+	 Cumulative Profit: 1043.2470940380172
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0785392777865006
+	 Cumulative Profit: 1043.2470940380172
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0785392777865006
+	 Cumulative Profit: 1043.2470940380172
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0785392777865006
+	 Cumulative Profit: 1043.2470940380172
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0785392777865006
+	 Cumulative Profit: 1043.2470940380172
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0785392777865006
+	 Cumulative Profit: 1043.2470940380172
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0785392777865006
+	 Cumulative Profit: 1043.2470940380172
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0785392777865006
+	 Cumulative Profit: 1043.2470940380172
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0785392777865006
+	 Cumulative Profit: 1043.2470940380172
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #30
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = MALE_OLD_HIGH_INCOME, Reach = 1696, Budget = 1696.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(600, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5572923153453166
+	 Cumulative Profit: 194.3355336513139
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5572923153453166
+	 Cumulative Profit: 194.3355336513139
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5572923153453166
+	 Cumulative Profit: 194.3355336513139
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5572923153453166
+	 Cumulative Profit: 194.3355336513139
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5572923153453166
+	 Cumulative Profit: 194.3355336513139
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5572923153453166
+	 Cumulative Profit: 194.3355336513139
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5572923153453166
+	 Cumulative Profit: 194.3355336513139
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5572923153453166
+	 Cumulative Profit: 194.3355336513139
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #31
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = MALE_OLD_LOW_INCOME, Reach = 1256, Budget = 1256.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(1842, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.111098552776904
+	 Cumulative Profit: 1535.0795645755827
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.111098552776904
+	 Cumulative Profit: 1535.0795645755827
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.111098552776904
+	 Cumulative Profit: 1535.0795645755827
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.111098552776904
+	 Cumulative Profit: 1535.0795645755827
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.111098552776904
+	 Cumulative Profit: 1535.0795645755827
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.111098552776904
+	 Cumulative Profit: 1535.0795645755827
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.111098552776904
+	 Cumulative Profit: 1535.0795645755827
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.111098552776904
+	 Cumulative Profit: 1535.0795645755827
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.111098552776904
+	 Cumulative Profit: 1535.0795645755827
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.111098552776904
+	 Cumulative Profit: 1535.0795645755827
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #32
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = FEMALE_LOW_INCOME, Reach = 3066, Budget = 3066.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(3331, 1208.8000000000004)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0364389029084997
+	 Cumulative Profit: 2080.64335263492
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0364389029084997
+	 Cumulative Profit: 2080.64335263492
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0364389029084997
+	 Cumulative Profit: 2080.64335263492
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0364389029084997
+	 Cumulative Profit: 2080.64335263492
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0364389029084997
+	 Cumulative Profit: 2080.64335263492
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0364389029084997
+	 Cumulative Profit: 2080.64335263492
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0364389029084997
+	 Cumulative Profit: 2080.64335263492
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0364389029084997
+	 Cumulative Profit: 2080.64335263492
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0364389029084997
+	 Cumulative Profit: 2080.64335263492
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0364389029084997
+	 Cumulative Profit: 2080.64335263492
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #33
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = MALE_OLD_LOW_INCOME, Reach = 2692, Budget = 2692.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(564, 564.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5264818982391757
+	 Cumulative Profit: -421.421459880278
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5264818982391757
+	 Cumulative Profit: -421.421459880278
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5264818982391757
+	 Cumulative Profit: -421.421459880278
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5264818982391757
+	 Cumulative Profit: -421.421459880278
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5264818982391757
+	 Cumulative Profit: -421.421459880278
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5264818982391757
+	 Cumulative Profit: -421.421459880278
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5264818982391757
+	 Cumulative Profit: -421.421459880278
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.5264818982391757
+	 Cumulative Profit: -421.421459880278
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #34
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = FEMALE_LOW_INCOME, Reach = 1314, Budget = 1314.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(1469, 1313.899930135119)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.046923485002076
+	 Cumulative Profit: 123.4149884503372
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.046923485002076
+	 Cumulative Profit: 123.4149884503372
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.046923485002076
+	 Cumulative Profit: 123.4149884503372
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.046923485002076
+	 Cumulative Profit: 123.4149884503372
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.046923485002076
+	 Cumulative Profit: 123.4149884503372
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.046923485002076
+	 Cumulative Profit: 123.4149884503372
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.046923485002076
+	 Cumulative Profit: 123.4149884503372
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.046923485002076
+	 Cumulative Profit: 123.4149884503372
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.046923485002076
+	 Cumulative Profit: 123.4149884503372
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.046923485002076
+	 Cumulative Profit: 123.4149884503372
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #35
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = FEMALE_LOW_INCOME, Reach = 2190, Budget = 2190.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(2190, 2190.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0851367560271683
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0851367560271683
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0851367560271683
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0851367560271683
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0851367560271683
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0851367560271683
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0851367560271683
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0851367560271683
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0851367560271683
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0851367560271683
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #36
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = YOUNG_LOW_INCOME, Reach = 5342, Budget = 5342.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(2871, 938.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 448.41185637279864
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(1994, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.946253182477703
+	 Cumulative Profit: 3829.769001591778
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.946253182477703
+	 Cumulative Profit: 3829.769001591778
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.946253182477703
+	 Cumulative Profit: 3829.769001591778
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.946253182477703
+	 Cumulative Profit: 3829.769001591778
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.946253182477703
+	 Cumulative Profit: 3829.769001591778
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.946253182477703
+	 Cumulative Profit: 3829.769001591778
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.946253182477703
+	 Cumulative Profit: 3829.769001591778
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.946253182477703
+	 Cumulative Profit: 3829.769001591778
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.946253182477703
+	 Cumulative Profit: 3829.769001591778
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #37
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = MALE_YOUNG_LOW_INCOME, Reach = 2754, Budget = 2754.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(658, 658.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: -483.73640679720154
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(1808, 144.6400000000002)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9350548393367986
+	 Cumulative Profit: 1593.6420550670855
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9350548393367986
+	 Cumulative Profit: 1593.6420550670855
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9350548393367986
+	 Cumulative Profit: 1593.6420550670855
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9350548393367986
+	 Cumulative Profit: 1593.6420550670855
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9350548393367986
+	 Cumulative Profit: 1593.6420550670855
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9350548393367986
+	 Cumulative Profit: 1593.6420550670855
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9350548393367986
+	 Cumulative Profit: 1593.6420550670855
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9350548393367986
+	 Cumulative Profit: 1593.6420550670855
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #38
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = FEMALE_HIGH_INCOME, Reach = 198, Budget = 198.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(263, 197.74998570240538)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0934114693381385
+	 Cumulative Profit: 37.24095615549746
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0934114693381385
+	 Cumulative Profit: 37.24095615549746
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0934114693381385
+	 Cumulative Profit: 37.24095615549746
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0934114693381385
+	 Cumulative Profit: 37.24095615549746
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0934114693381385
+	 Cumulative Profit: 37.24095615549746
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0934114693381385
+	 Cumulative Profit: 37.24095615549746
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0934114693381385
+	 Cumulative Profit: 37.24095615549746
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0934114693381385
+	 Cumulative Profit: 37.24095615549746
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0934114693381385
+	 Cumulative Profit: 37.24095615549746
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0934114693381385
+	 Cumulative Profit: 37.24095615549746
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #39
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = FEMALE_OLD_LOW_INCOME, Reach = 2160, Budget = 2160.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(2375, 237.4999999999908)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 2099.4129341891235
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(2389, 238.8999999999907)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1512898017082824
+	 Cumulative Profit: 2337.1719433797984
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1512898017082824
+	 Cumulative Profit: 2337.1719433797984
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1512898017082824
+	 Cumulative Profit: 2337.1719433797984
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1512898017082824
+	 Cumulative Profit: 2337.1719433797984
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1512898017082824
+	 Cumulative Profit: 2337.1719433797984
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1512898017082824
+	 Cumulative Profit: 2337.1719433797984
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1512898017082824
+	 Cumulative Profit: 2337.1719433797984
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1512898017082824
+	 Cumulative Profit: 2337.1719433797984
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #40
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = FEMALE_LOW_INCOME, Reach = 9200, Budget = 9200.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(3404, 969.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 168.5222299368395
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(4394, 338.85868875762645)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8960695738207873
+	 Cumulative Profit: 5979.82146954486
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8960695738207873
+	 Cumulative Profit: 5979.82146954486
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8960695738207873
+	 Cumulative Profit: 5979.82146954486
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8960695738207873
+	 Cumulative Profit: 5979.82146954486
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8960695738207873
+	 Cumulative Profit: 5979.82146954486
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8960695738207873
+	 Cumulative Profit: 5979.82146954486
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8960695738207873
+	 Cumulative Profit: 5979.82146954486
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8960695738207873
+	 Cumulative Profit: 5979.82146954486
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #41
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = FEMALE_OLD_HIGH_INCOME, Reach = 284, Budget = 284.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(403, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1057461401757784
+	 Cumulative Profit: 344.06380761984207
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1057461401757784
+	 Cumulative Profit: 344.06380761984207
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1057461401757784
+	 Cumulative Profit: 344.06380761984207
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1057461401757784
+	 Cumulative Profit: 344.06380761984207
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1057461401757784
+	 Cumulative Profit: 344.06380761984207
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1057461401757784
+	 Cumulative Profit: 344.06380761984207
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1057461401757784
+	 Cumulative Profit: 344.06380761984207
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1057461401757784
+	 Cumulative Profit: 344.06380761984207
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1057461401757784
+	 Cumulative Profit: 344.06380761984207
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1057461401757784
+	 Cumulative Profit: 344.06380761984207
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #42
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = FEMALE_YOUNG_HIGH_INCOME, Reach = 128, Budget = 128.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(128, 128.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0049760295760279405
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0049760295760279405
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0049760295760279405
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0049760295760279405
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0049760295760279405
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0049760295760279405
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0049760295760279405
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0049760295760279405
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0049760295760279405
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.9999805623844686
+	 Cumulative Profit: -0.0049760295760279405
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #43
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = FEMALE_OLD, Reach = 5896, Budget = 5896.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(2828, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 1191.3703079037514
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(2792, 38.80000000000028)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 5552.915766633268
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(2739, 38.87151144165369)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1055934879558755
+	 Cumulative Profit: 7063.486898534031
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1055934879558755
+	 Cumulative Profit: 7063.486898534031
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1055934879558755
+	 Cumulative Profit: 7063.486898534031
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1055934879558755
+	 Cumulative Profit: 7063.486898534031
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1055934879558755
+	 Cumulative Profit: 7063.486898534031
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1055934879558755
+	 Cumulative Profit: 7063.486898534031
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1055934879558755
+	 Cumulative Profit: 7063.486898534031
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1055934879558755
+	 Cumulative Profit: 7063.486898534031
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #44
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = OLD_HIGH_INCOME, Reach = 1215, Budget = 1215.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(602, 602.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: -338.97797949765476
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6082395146100186
+	 Cumulative Profit: -338.97797949765476
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6082395146100186
+	 Cumulative Profit: -338.97797949765476
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6082395146100186
+	 Cumulative Profit: -338.97797949765476
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6082395146100186
+	 Cumulative Profit: -338.97797949765476
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6082395146100186
+	 Cumulative Profit: -338.97797949765476
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6082395146100186
+	 Cumulative Profit: -338.97797949765476
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6082395146100186
+	 Cumulative Profit: -338.97797949765476
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6082395146100186
+	 Cumulative Profit: -338.97797949765476
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.6082395146100186
+	 Cumulative Profit: -338.97797949765476
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #45
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = FEMALE_YOUNG_LOW_INCOME, Reach = 990, Budget = 990.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(2048, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1471172928321867
+	 Cumulative Profit: 1281.2922398077294
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1471172928321867
+	 Cumulative Profit: 1281.2922398077294
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1471172928321867
+	 Cumulative Profit: 1281.2922398077294
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1471172928321867
+	 Cumulative Profit: 1281.2922398077294
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1471172928321867
+	 Cumulative Profit: 1281.2922398077294
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1471172928321867
+	 Cumulative Profit: 1281.2922398077294
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1471172928321867
+	 Cumulative Profit: 1281.2922398077294
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1471172928321867
+	 Cumulative Profit: 1281.2922398077294
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1471172928321867
+	 Cumulative Profit: 1281.2922398077294
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1471172928321867
+	 Cumulative Profit: 1281.2922398077294
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #46
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = FEMALE_LOW_INCOME, Reach = 4381, Budget = 4381.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(3366, 975.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 1835.9381428640386
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(2439, 243.89999999999043)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0929087449286246
+	 Cumulative Profit: 3976.166423064619
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0929087449286246
+	 Cumulative Profit: 3976.166423064619
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0929087449286246
+	 Cumulative Profit: 3976.166423064619
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0929087449286246
+	 Cumulative Profit: 3976.166423064619
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0929087449286246
+	 Cumulative Profit: 3976.166423064619
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0929087449286246
+	 Cumulative Profit: 3976.166423064619
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0929087449286246
+	 Cumulative Profit: 3976.166423064619
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0929087449286246
+	 Cumulative Profit: 3976.166423064619
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0929087449286246
+	 Cumulative Profit: 3976.166423064619
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #47
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 1, Segment = FEMALE_OLD_LOW_INCOME, Reach = 1680, Budget = 1680.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(1202, 1202.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.768325588442871
+	 Cumulative Profit: -300.42602283195333
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.768325588442871
+	 Cumulative Profit: -300.42602283195333
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.768325588442871
+	 Cumulative Profit: -300.42602283195333
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.768325588442871
+	 Cumulative Profit: -300.42602283195333
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.768325588442871
+	 Cumulative Profit: -300.42602283195333
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.768325588442871
+	 Cumulative Profit: -300.42602283195333
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.768325588442871
+	 Cumulative Profit: -300.42602283195333
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.768325588442871
+	 Cumulative Profit: -300.42602283195333
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.768325588442871
+	 Cumulative Profit: -300.42602283195333
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.768325588442871
+	 Cumulative Profit: -300.42602283195333
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #48
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = FEMALE_OLD, Reach = 3931, Budget = 3931.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(2743, 618.20000000001)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 1357.6285168519514
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7513137263866652
+	 Cumulative Profit: 1357.6285168519514
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7513137263866652
+	 Cumulative Profit: 1357.6285168519514
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7513137263866652
+	 Cumulative Profit: 1357.6285168519514
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7513137263866652
+	 Cumulative Profit: 1357.6285168519514
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7513137263866652
+	 Cumulative Profit: 1357.6285168519514
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7513137263866652
+	 Cumulative Profit: 1357.6285168519514
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7513137263866652
+	 Cumulative Profit: 1357.6285168519514
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7513137263866652
+	 Cumulative Profit: 1357.6285168519514
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.7513137263866652
+	 Cumulative Profit: 1357.6285168519514
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #49
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 3, Segment = MALE_YOUNG_HIGH_INCOME, Reach = 465, Budget = 465.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(272, 272.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: -124.16213892958996
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: {2=(555, 55.50000000000052)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1347453086894217
+	 Cumulative Profit: 262.8131370811616
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1347453086894217
+	 Cumulative Profit: 262.8131370811616
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1347453086894217
+	 Cumulative Profit: 262.8131370811616
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1347453086894217
+	 Cumulative Profit: 262.8131370811616
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1347453086894217
+	 Cumulative Profit: 262.8131370811616
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1347453086894217
+	 Cumulative Profit: 262.8131370811616
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1347453086894217
+	 Cumulative Profit: 262.8131370811616
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.1347453086894217
+	 Cumulative Profit: 262.8131370811616
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+
+
+[-] Starting a new Game, game #50
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 1,
+	 Statistics: null,
+	 New campaigns: 
+		Campaign 2 = [startDay = 1, endDay = 2, Segment = FEMALE_YOUNG_HIGH_INCOME, Reach = 358, Budget = 358.0]
+	 Quality Score = 1.0
+	 Cumulative Profit: 0.0
+[-] ACK Message, all ok, Bid bundle for day 1 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 2,
+	 Statistics: {2=(271, 81.29999999999959)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 1.0
+	 Cumulative Profit: 140.29339535744717
+[-] ACK Message, all ok, Bid bundle for day 2 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 3,
+	 Statistics: {2=(0, 0.0)},
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8094879823428027
+	 Cumulative Profit: 140.29339535744717
+[-] ACK Message, all ok, Bid bundle for day 3 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 4,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8094879823428027
+	 Cumulative Profit: 140.29339535744717
+[-] ACK Message, all ok, Bid bundle for day 4 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 5,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8094879823428027
+	 Cumulative Profit: 140.29339535744717
+[-] ACK Message, all ok, Bid bundle for day 5 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 6,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8094879823428027
+	 Cumulative Profit: 140.29339535744717
+[-] ACK Message, all ok, Bid bundle for day 6 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 7,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8094879823428027
+	 Cumulative Profit: 140.29339535744717
+[-] ACK Message, all ok, Bid bundle for day 7 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 8,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8094879823428027
+	 Cumulative Profit: 140.29339535744717
+[-] ACK Message, all ok, Bid bundle for day 8 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 9,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8094879823428027
+	 Cumulative Profit: 140.29339535744717
+[-] ACK Message, all ok, Bid bundle for day 9 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 10,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8094879823428027
+	 Cumulative Profit: 140.29339535744717
+[-] ACK Message, all ok, Bid bundle for day 10 received OK.
+[-] handleEndOfDayMessage 
+ EndOfDayMessage: 
+	 Day: 11,
+	 Statistics: null,
+	 New campaigns: No campaigns in the given list.
+	 Quality Score = 0.8094879823428027
+	 Cumulative Profit: 140.29339535744717
+[-] ACK Message, all ok, Bid bundle for day 11 received OK.
+09:04  INFO: [kryonet] Connection 1 disconnected.
