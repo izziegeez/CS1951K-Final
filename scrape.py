@@ -4,7 +4,7 @@ import csv
 
 root_path = "log_files"
 
-all_data = [["txt_num", "game", "day", "campaign", "quality_score", "cumulative_profit"]]
+all_data = [["txt_num", "game", "day", "stats", "campaign", "quality_score", "cumulative_profit"]]
 start_kw = "Starting a new Game, game #"
 day_kw = "Day: "
 stats_kw = "Statistics: "
